@@ -5,27 +5,26 @@ All data (balance, PIN, username) is stored directly inside the source code — 
 
 🔹 Features
 
-      User Login System
-      Enter username
-      Enter PIN
-      Access granted only on correct credentials
-      Account Statement
-      Shows recent transactions
-      Displays current balance
-      Deposit Money
-      Enter amount to deposit
-      System updates balance instantly
-      Withdraw Money
-      Enter amount to withdraw
-      Balance updated and validated
-      Change PIN
-      Enter new PIN
-      Confirm new PIN to update
+User Login System
+Enter username
+Enter PIN
+Access granted only on correct credentials
+Account Statement
+Shows recent transactions
+Displays current balanceDeposit Money
+Enter amount to deposit
+System updates balance instantly
+Withdraw Money
+Enter amount to withdraw
+Balance updated and validated
+Change PIN
+Enter new PIN
+Confirm new PIN to update
 
 🔹 How It Works
 
-      System stores user data inside the Python file
-      No database or text files used
-      Console-based interface (run from terminal)
-      Simple functions handle all ATM operations
-      Ideal for Python beginners learning functions and basic logic
+-System stores user data inside the Python file
+-No database or text files used
+-Console-based interface (run from terminal)
+-Simple functions handle all ATM operations
+-Ideal for Python beginners learning functions and basic logic
