@@ -1,9 +1,9 @@
-ATM Simulator (Python Mini Project)
+**ATM Simulator (Python Mini Project):**
 
 A simple console-based ATM Simulator written in Python. This mini project allows users to log in using a predefined username and PIN, then access basic ATM features such as depositing money, withdrawing money, viewing account statements, and changing the PIN.
 All data (balance, PIN, username) is stored directly inside the source code — no database or external files required.
 
-🔹 Features
+**🔹 Features :**
 
 User Login System,
 Enter username,
@@ -21,7 +21,7 @@ Change PIN,
 Enter new PIN,
 Confirm new PIN to update.
 
-🔹 How It Works
+**🔹 How It Works :**
 
 -System stores user data inside the Python file,
 -No database or text files used,
